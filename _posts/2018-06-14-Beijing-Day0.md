@@ -3,11 +3,13 @@ layout: post
 title: 베이징(북경) 여행 시작
 date: 2018-06-14 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
-img: airplan_view.jpg # Add image post (optional)
+img: .\trip\2018-06-14\airplan_view.jpg # Add image post (optional)
 tags: [GitHub Blog, 북경, 베이징, 자유여행]
 ---
 
-## 베이징(북경) 여행의 시작 <hr>
+## 베이징(북경) 여행의 시작
+
+---
 
 ### **개   요**
   
@@ -19,7 +21,6 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
   
   <br>
 
-  ![alt](..\assets\img\trip\2018-06-14\airplan_view.jpg)
   
   계획성이 모자른 만큼 이번 해외여행에 대한 모험감과 탐험심은 전무했다.  
   
@@ -35,7 +36,7 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
 
   ![alt](..\assets\img\trip\2018-06-14\airplan_food.jpg)
 
-  자고있던 나를 수동적으로 깨운 이 음식의 향기는 배고픈 나의 가슴을 뛰게 만드는 수준의 냄새를 풍기고 있었다.
+  자고있던 나를 깨운 이 음식의 향기는 가슴이 두근거리게 냄새를 풍기고 있었다.
 
   난생 처음 맛보는 기내식, 그것도 대형 항공사에서 지급해주는 기내식이란!
 
