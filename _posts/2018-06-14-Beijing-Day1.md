@@ -3,7 +3,7 @@ layout: post
 title: 베이징(북경) 여행 1일차
 date: 2018-06-15 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
-img: github.jpg # Add image post (optional)
+img: Beijing_Whagpujing.jpg # Add image post (optional)
 tags: [GitHub Blog, 북경, 베이징, 자유여행, 와이포지아]
 ---
 
@@ -75,13 +75,13 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 와이포지아]
 
   만두피 또한 매우 얇아 식감이 쫀득하고 텁텁함이 없는 부드러움이 느껴졌다.
 
-  ![waipouzia_Beijingduck](..\assets\img\trip\2018-06-15\waipouzia_Beijingduck.jpg)
+  ![waipouzia_Beijingduck](..\assets\img\trip\2018-06-15\waipouzia_beijingduck.jpg)
 
   드디어 고대하던 북경오리를 맛보게 되었다.
 
   입에서 녹는 껍데기와 부드러운 살코기 정말 칭따오가 빠질수 없는 조합이었다.
 
-  ![waipouzia_Beijingduck_sam](..\assets\img\trip\2018-06-15\waipouzia_Beijingduck_sam.jpg)
+  ![waipouzia_Beijingduck_sam](..\assets\img\trip\2018-06-15\waipouzia_beijingduck_sam.jpg)
   
   전병에 여러가지 야채와 오리를 올려 춘장 소스를 찍어 먹는 것ㅡ
 
