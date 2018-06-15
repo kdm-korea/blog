@@ -3,7 +3,7 @@ layout: post
 title: 베이징(북경) 여행 시작
 date: 2018-06-14 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
-img: .\trip\2018-06-14\airplan_view.jpg # Add image post (optional)
+img: airplan_view.jpg # Add image post (optional)
 tags: [GitHub Blog, 북경, 베이징, 자유여행]
 ---
 
