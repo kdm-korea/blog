@@ -21,6 +21,7 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
   
   <br>
 
+  ![alt](..\assets\img\trip\2018-06-14\airplan_view.jpg)
   
   계획성이 모자른 만큼 이번 해외여행에 대한 모험감과 탐험심은 전무했다.  
   
