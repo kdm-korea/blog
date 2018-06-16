@@ -9,7 +9,7 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 와이포지아,자금성, 
 
 ## 베이징(북경) 여행 1일차
 
-### ****
+### **D-Day**
   
   아침 일찍 커튼 사이로 햇살이 얼굴을 비추었다.
 
@@ -49,11 +49,11 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 와이포지아,자금성, 
 
   밤이 되면 야시장과 야경을 보러 많은 사람들이 이 거리를 찾아온다.
 
-  맥주들고 걸어다니기 좋은 거리.
+  맥주들고 벤치에 앉아있기 좋은 거리.
 
   <br>
 
-  ![Whagpujing Dark Street](..\assets\img\trip\2018-06-15\.jpg)
+  ![Whagpujing Dark Street](..\assets\img\trip\2018-06-15\Whagpujing_Dark_Street.jpg)
   
   역시 중국의 밤은 휘향찬란했다.
 
@@ -80,6 +80,14 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 와이포지아,자금성, 
   가장 먼저 전병에 오리고기와 함께 올리는 사이드 메뉴가 나왔다.
 
   플레이팅부터 입이 즐거워진 기분이었다.
+
+  <br>
+
+  ![waipouziaBeijingduck duckguck](..\assets\img\trip\2018-06-15\waipouzia_Beijingduck_duckguck.jpg)
+
+  가장 마지막에 나왔어야 할 오리곰국이 나왔다.
+
+  매우 고소했으며 짭자롭하게 간이 되어 입맛을 돋구어 주었다.
 
   <br>
 
