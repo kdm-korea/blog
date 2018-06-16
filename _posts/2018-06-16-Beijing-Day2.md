@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 베이징(북경) 여행 2일차
+title: 중국 베이징(북경) 여행 2일차
 date: 2018-06-16 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
 img: Chunjin_Dark_Bridge.jpg # Add image post (optional)
 tags: [GitHub Blog, 북경, 베이징, 자유여행, 천진, 텐진]
 ---
 
-##베이징(북경) ⇨ 텐진 여행 2일차
+## 베이징(북경) ⇨ 텐진 여행
 
-### ****
+### **2 - Day**
 
   시차적응을 제대로 하지 못해 일찍 기상하게 되었다. 
   

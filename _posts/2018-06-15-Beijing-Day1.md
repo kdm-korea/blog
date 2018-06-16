@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 베이징(북경) 여행 1일차
+title: 중국 베이징(북경) 여행 1일차
 date: 2018-06-15 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
 img: Beijing_Whagpujing.jpg # Add image post (optional)
 tags: [GitHub Blog, 북경, 베이징, 자유여행, 와이포지아,자금성, 살수차, 징산공원]
 ---
 
-## 베이징(북경) 여행 1일차
+## 베이징(북경) 여행
 
 ### **1 - Day**
   
