@@ -73,7 +73,7 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 천진, 텐진]
 
   표를 달라고 요청했더니 군말없이 두장을 주었다.
 
-  ![train_buy](..\assets\img\trip\2018-06-16\river_afternoon.jpg)
+  ![train_buy](..\assets\img\trip\2018-06-16\train_buy.jpg)
 
   나중에 탑승하고 나니 우리는 입석이였다.
 
