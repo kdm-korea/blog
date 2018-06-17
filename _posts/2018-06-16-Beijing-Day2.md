@@ -29,6 +29,8 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 천진, 텐진]
   
   창구 직원은 해당 은행에서는 불가능하다며 China Bank를 쪽지에 적어 주었다.
 
+  <br>
+
   ![receipts](..\assets\img\trip\2018-06-16\receipts.jpg)
 
   ATM에서의 환전은 영어 메뉴가 있어 어렵지 않았다.
@@ -48,6 +50,8 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 천진, 텐진]
   지하철 입구에서는 가방검사와 스캔기로 출입자에 대하여 검문하였다.
 
   우리는 왕푸징역에서 북경남역까지 이동을 해야 했으며, 1호선인 북경남역에서 4호선인 왕푸징역으로 환승하여 이동하여야 했다.
+
+  <br>
   
   ![subway_transfer](..\assets\img\trip\2018-06-16\subway_transfer.jpg)
 
@@ -73,6 +77,8 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 천진, 텐진]
 
   표를 달라고 요청했더니 군말없이 두장을 주었다.
 
+  <br>
+
   ![train_buy](..\assets\img\trip\2018-06-16\train_buy.jpg)
 
   나중에 탑승하고 나니 우리는 입석이였다.
@@ -86,6 +92,8 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행, 천진, 텐진]
  처음 천진역에 도착해서 보이는것은 시계탑이였다.
  
  차량들은 시계탑을 휘감아 나갔고 앞으로는 하히허강이 세차게 흐르고 있었다.
+
+  <br>
 
 ![river_afternoon](..\assets\img\trip\2018-06-16\river_afternoon.jpg)
  
