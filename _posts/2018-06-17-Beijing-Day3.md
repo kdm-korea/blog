@@ -22,6 +22,22 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
 
 ### **위더라이**
 
+  베이징에서 만나 친해진친구가 추천해준 두번째 맛집이다.
+
+  현지인들이 굉장히 많았고 포장해 가는 사람들도 적잖히 많았다.
+
+  여태껏 생각했던 양을 기준으로 주문했던 우리는
+
+  행복하게도, 음식폭탄을 맞게 되었다.
+
+  ![food](..\assets\img\trip\2018-06-17\rice.jpg)
+
+  ![food](..\assets\img\trip\2018-06-17\tomato.jpg)
+
+  ![food](..\assets\img\trip\2018-06-17\yangbachu.jpg)
+
+  ![food](..\assets\img\trip\2018-06-17\maindish.jpg)
+  
 ### **소나기**
   
   아침겸 점심을 먹고 숙소에 들어오자마자 비가 쏟아지기 시작했다.
@@ -40,10 +56,19 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
 
   말로 설명이 필요없으니 사진으로만 올리도록 하겠다.
 
-  <a [천진 야경 6개](http://link)>
+  ![Dark_See](..\assets\img\trip\2018-06-17\DarkSee1.jpg)
 
-  
+  <br>
 
+  ![Dark_See](..\assets\img\trip\2018-06-17\DarkSee2.jpg)
+
+  <br>
+
+  ![Dark_See](..\assets\img\trip\2018-06-17\DarkSee3.jpg)
+
+  <br>
+
+  ![Dark_See](..\assets\img\trip\2018-06-17\DarkSee4.jpg)
 
 ### **사용경비**
 

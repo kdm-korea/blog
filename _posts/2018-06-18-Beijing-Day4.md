@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 중국 천진(텐진) 여행 4일차
-date: 2018-06-17 19:53:00 +0300
+date: 2018-06-18 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
 img: Tenjin_Room.jpg # Add image post (optional)
 tags: [GitHub Blog, 북경, 베이징, 자유여행]
@@ -79,13 +79,13 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
   
   내 생각도 그러했다.
   
-  <숙소 [text](http://link)>
+  ![Room](..\assets\img\trip\2018-06-18\Room.jpg)
    
   숙소의 첫인상은 깔끔하고 잘 정돈된 한국의 모텔과 유사한 느낌이었다.
 
   일조량도 좋았으며, 보안도 철저하게 잘 이루어져 있었다.
 
-  <숙소 뷰 [text](http://link)>
+  ![Room](..\assets\img\trip\2018-06-18\Room_Window.jpg)
   
   문제는 창가였다.
   
