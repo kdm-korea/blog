@@ -3,7 +3,7 @@ layout: post
 title: 중국 천진(텐진) 여행 5일차
 date: 2018-06-19 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
-img: Tenjin_Room.jpg # Add image post (optional)
+img: Tengin_river21.jpg # Add image post (optional)
 tags: [GitHub Blog, 북경, 베이징, 자유여행]
 ---
 
@@ -35,7 +35,9 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
 
   샤워하고 발길이 내키는 곳으로 무작적 페달을 밟았다.
 
-  <a [강 사진](http://link)>
+  <br>
+
+  ![river](..\assets\img\trip\2018-06-19\river.jpg)
 
   초저녁의 텐진은 아니,
 
@@ -43,13 +45,19 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
 
   깔끔하고 상쾌했다.
 
+  <br>
+
+  ![street](..\assets\img\trip\2018-06-19\street.jpg)
+
   어제부터 중국은 3일간 한국의 단오와 같은 명절이라
 
   대부분 밖에 나온 사람들이 많지 않았다.
 
   차량 또한 많지 았았다.
 
-  <a [시계탑 사진](http://link)>
+  <br>
+
+  ![clock](..\assets\img\trip\2018-06-19\clock.jpg)
 
 ### **풍족한 먹거리**
   
@@ -57,7 +65,9 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
 
   100위안을 한끼에 전부 쓰다니.
 
-  <a [저녁식사](http://link)>
+  <br>
+  
+  ![dinner](..\assets\img\trip\2018-06-19\dinner.jpg)
 
   양이 정말 많았다!
 
@@ -70,3 +80,5 @@ tags: [GitHub Blog, 북경, 베이징, 자유여행]
   통통해진 배를 끌어안고 잠에 들었다.
 
 ### **사용경비**
+
+  ![Used Money](..\assets\img\trip\2018-06-19\Used_Money.jpg)
