@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 중국 천진(텐진) 여행 6일차
+title: 중국 천진(텐진) 여행 7일차
 date: 2018-06-21 19:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
 img: Time21.jpg # Add image post (optional)
