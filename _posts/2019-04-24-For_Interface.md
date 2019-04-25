@@ -28,15 +28,15 @@ tags: [GitHub Blog, C#, Interface]
 
     - 입출력을 받는, User에게 이벤트를 유발할수 있는 부분
         
-        ```C#
-        interface IView {
-            int ChooseMenu(int value);
+        >```C#
+        >interface IView {
+        >    int ChooseMenu(int value);
+    
+        >    int Input();
 
-            int Input();
-
-            void Output(float value);
-        }
-        ```
+        >    void Output(float value);
+        >}
+        >```
 
     - 데이터가 계산되는 부분 
         
