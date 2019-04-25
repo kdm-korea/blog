@@ -31,9 +31,9 @@ tags: [GitHub Blog, C#, Interface]
         >```C#
         >interface IView {
         >    int ChooseMenu(int value);
-    
+        >
         >    int Input();
-
+        >
         >    void Output(float value);
         >}
         >```
