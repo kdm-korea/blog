@@ -3,11 +3,13 @@ layout: post
 title: Interface에 관하여
 date: 2019-04-24 21:53:00 +0300
 description: Grow as a Full Stack Development. This blog always used to keep learning knowledge.
-# img: Dark.jpg # Add image post (optional)
+ img: Interface.jpg # Add image post (optional)
 tags: [GitHub Blog, C#, Interface]
 ---
 
-### Interface에 관하여 적어봅니다.
+## Interface에 관하여
+
+- 인터페이스란 
 
 - 인터페이스는 다른 인원들과 협업을 위한 통로가 될 수 있습니다. 가령 정수형 숫자를 입력받아 처리하는 사칙연산 계산기 를 만든다고 합시다. 그럼 계산기에 대한 구조는 어떻게 될까요?
 
@@ -28,15 +30,7 @@ tags: [GitHub Blog, C#, Interface]
 
     - 입출력을 받는, User에게 이벤트를 유발할수 있는 부분
         
-        ```C#
-        interface IView {
-            int ChooseMenu(int value);
-
-            int Input();
-
-            void Output(float value);
-        }
-        ```
+        <div class="colorscripter-code" style="color:#f0f0f0; font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important; position:relative !important; overflow:auto"><table class="colorscripter-code-table" style="margin:0; padding:0; border:none; background-color:#272727; border-radius:4px;" cellspacing="0" cellpadding="0"><tr><td style="padding:6px; border-right:2px solid #4f4f4f"><div style="margin:0; padding:0; word-break:normal; text-align:right; color:#aaa; font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important; line-height:130%"><div style="line-height:130%">1</div><div style="line-height:130%">2</div><div style="line-height:130%">3</div><div style="line-height:130%">4</div><div style="line-height:130%">5</div><div style="line-height:130%">6</div><div style="line-height:130%">7</div><div style="line-height:130%">8</div></div></td><td style="padding:6px 0"><div style="margin:0; padding:0; color:#f0f0f0; font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important; line-height:130%"><div style="padding:0 6px; white-space:pre; line-height:130%"><span style="color:#ff3399">interface</span>&nbsp;IView&nbsp;{</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff3399">int</span>&nbsp;ChooseMenu(<span style="color:#ff3399">int</span>&nbsp;value);</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff3399">int</span>&nbsp;Input();</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff3399">void</span>&nbsp;Output(<span style="color:#ff3399">float</span>&nbsp;value);</div><div style="padding:0 6px; white-space:pre; line-height:130%">}</div><div style="padding:0 6px; white-space:pre; line-height:130%">&nbsp;</div></div></td><td style="vertical-align:bottom; padding:0 2px 4px 0"><a href="http://colorscripter.com/info#e" target="_blank" style="text-decoration:none; color:white"><span style="font-size:9px; word-break:normal; background-color:#4f4f4f; color:white; border-radius:10px; padding:1px">cs</span></a></td></tr></table></div>
 
     - 데이터가 계산되는 부분 
         
@@ -53,7 +47,9 @@ tags: [GitHub Blog, C#, Interface]
         ```
     두가지로 분리하여 설계가 끝났습니다.
 
-    그럼 구현에 앞서 우선 Interface로 프로그램을 작동해 보겠습니다.
+
+
+    그럼 구현에 앞서 우선 Interface로 프로그램을 실행해 보겠습니다.
 
     인터페이스를 사용했을때 장점이 여기서 나옴니다.
 
